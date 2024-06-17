@@ -4,6 +4,7 @@
 - Git clone this repository
 
 - Run ```sudo docker build -t sipyweb .```
+- Add all of your needed files, exp your index.html file, etc
 - ```sudo docker run -d -p 8000:8000 --name SiPyWeb-Docker sipyweb```
 
 # Config
