@@ -4,7 +4,7 @@
 - Git clone this repository
 
 - Run ```sudo docker build -t sipyweb .```
-- ```docker run -d -p 8000:8000 --name SiPyWeb-Docker SiPyWeb```
+- ```docker run -d -p 8000:8000 --name SiPyWeb-Docker sipyweb```
 
 # Config
 
